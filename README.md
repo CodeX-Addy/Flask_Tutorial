@@ -27,7 +27,8 @@
 
   <h2>Resources:</h2>
     <a href="https://flask.palletsprojects.com/en/3.0.x/">Flask Documentation</a><br>
-     <a href="https://realpython.com/flask-project/">Build from scratch</a>
+    <a href="https://realpython.com/flask-project/">Build from scratch</a>
+    <a href="https://jinja.palletsprojects.com/en/3.1.x/">Jinja Templating</a>
     
 </body>
 
