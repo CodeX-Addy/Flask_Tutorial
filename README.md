@@ -21,8 +21,8 @@ To run this application, you will need the following:
 pip install -r requirements.txt
 ```
 
-4. Create a MySQL database named `esoteric`.
-5. Create a table named `connect` in the `esoteric` database with the following columns:
+4. Create a MySQL database named `eso`.
+5. Create a table named `connect` in the `eso` database with the following columns:
 
 ```
 id INT NOT NULL AUTO_INCREMENT,
