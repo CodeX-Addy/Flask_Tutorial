@@ -1,4 +1,4 @@
- # Esoteric: A Simple Flask App with SQLAlchemy
+ # Eso: A Simple Flask App with SQLAlchemy
 
 This repository contains the code for a simple Flask application that uses SQLAlchemy to connect to a MySQL database and perform basic CRUD operations. The application allows users to enter their email addresses, which are then stored in the database. Users can also view all the email addresses that have been entered.
 
